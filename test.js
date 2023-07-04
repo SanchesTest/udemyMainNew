@@ -15,6 +15,8 @@ obj[b] = 'new';
 
 console.log(obj[b]);
 
+let rri = 0;
+
 const storeName = 'testName';
 const storeDescription = {
     budget: 10000,
